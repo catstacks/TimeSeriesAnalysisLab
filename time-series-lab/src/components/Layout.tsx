@@ -5,7 +5,7 @@ import {
   NavigationMenuLink,
   NavigationMenuList,
   NavigationMenuTrigger,
-} from "./ui/navigation-menu";
+} from "./ui/Navigation";
 import * as React from "react";
 import {
   CircleAlertIcon,
